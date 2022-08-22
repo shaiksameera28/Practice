@@ -1,5 +1,5 @@
 
-public class BestFriend {
+public class BestFriend extends Friend {
 	 public void toEat() {
 		   System.out.println("Motton Biryani");
 		   System.out.println("Prawns Dum Biryani");
